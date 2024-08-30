@@ -1,0 +1,16 @@
+alpine-baselayout
+alpine-keys
+apk-tools
+busybox
+ca-certificates
+curl
+libc-utils
+libintl
+musl
+nano
+nginx=1.21.6-r1
+nginx-module-geoip=1.21.6-r1
+nginx-module-image-filter=1.21.6-r1
+nginx-module-njs=1.21.6.0.7.3-r1
+nginx-module-xslt=1.21.6-r1
+tzdata
